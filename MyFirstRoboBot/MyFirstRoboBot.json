@@ -1,0 +1,10 @@
+{
+  "name": "MyFirstRoboBot",
+  "version": "1.0",
+  "authors": [ "«Andrew G»" ],
+  "description": "MyFirstRoboBot",
+  "homepage": "«insert link to a home page for your bot»",
+  "countryCodes": [ "«us»" ],
+  "platform": "«.NET»",
+  "programmingLang": "«C#»"
+}
